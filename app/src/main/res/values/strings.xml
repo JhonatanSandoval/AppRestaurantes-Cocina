@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppRestaurantes-Cocina</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="cocina">Cocina</string>
+    <string name="counter">Counter</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="por_atender">Por Atender</string>
+    <string name="atendidos">Atendidos</string>
+</resources>
